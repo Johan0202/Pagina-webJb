@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="mishabilidades.css">
+</head>
+<body>
+    <header class="header">
+    <div nav="menu">
+        <nav> 
+        
+                <label for="btn-menu">☰</label>
+            </div>
+                
+        
+        
+    <!------------------>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+            
+            <ul>
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="Mitrabajo.html">PROYECTOS</a></li>
+                <li><a href="QuienSoy.html">QUIEN SOY</a></li>
+                <li><a href="mishabilidades.html">MIS HABILIDADES</a></li>
+                <li><a href="Contacto.html">CONTACTO</a></li>
+           
+    
+            </ul>
+        </nav>
+
+        <label for="btn-menu">X</label>
+    </div>
+</header>
+    
+
+        <center>
+    <div>
+        <h1>MIS  HABILIDADES</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+    </div>
+           <br>
+          <h2><p>ESTRATEGIAS</p></h2>
+           <img src="img/estrategias-amenazas-y-oportunidades-en-proyectos.jpg" width="400px" alt="Fotoperfil">
+           <br>
+           <br>
+           <h2><p>TRABAJO SOCIAL</p></h2>
+          <img src="img/tb soc.png" width="400px" alt="Fotoperfil">
+           <br>
+           <br>
+           <h2><p>RESPONSABLE</p></h2>
+           <img src="img/tbres.jpg" width="400px" alt="Fotoperfil">
+         <br>
+         
+        </div>
+    <br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+
+</center>
+        <footer>
+            <center>
+            Derecho reservado &copy; 2023
+            </center>
+            </footer>
+</body>
+</html>
