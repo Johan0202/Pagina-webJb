@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACTO</title>
+ <link rel="icon" href="futbol-americano.png"  type="image/jpeg" sizes="16x16">
+ <link rel="stylesheet" href="contacto.css">
+</head>
+</head>
+<body>
+    <header class="header">
+    <div nav="menu">
+        <nav> 
+        
+                <label for="btn-menu">☰</label>
+            </div>
+                
+        
+        
+    <!------------------>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+            
+            <ul>
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="Mitrabajo.html">PROYECTOS</a></li>
+                <li><a href="QuienSoy.html">QUIEN SOY</a></li>
+                <li><a href="mishabilidades.html">MIS HABILIDADES</a></li>
+                <li><a href="Contacto.html">CONTACTO</a></li>
+           
+    
+            </ul>
+        </nav>
+
+        <label for="btn-menu">X</label>
+    </div>
+</header>
+   <center>
+    <div>
+        <h1>Queremos Escucharte!</h1>
+        <p>Para  todas tus consultas y sugerencias , no dudes en contactarnos, responderemos tu solicitud
+            <br>
+            
+        </p>
+        <fieldset>
+            <input name="Nombre " type="text" placeholder=" su nombre">
+            <input name="Email" type="text" placeholder=" Su correo">
+            <input name="Telefono " type="text" placeholder=" Numero">
+            <input name="Ciudad " type="text" placeholder=" Ciudad">
+            <br>
+            <br>
+<textarea>Por favor escriba mas detalles de su solicitud</textarea> 
+        </fieldset>
+    </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</center>
+    <footer>
+        <center>
+
+        Derecho reservado &copy; 2023
+        </center>
+        </footer>
+</body>
+</html>
