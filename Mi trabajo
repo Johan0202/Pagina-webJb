@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi TRABAJO</title>
+    <link rel="icon" href="futbol-americano.png"  type="image/jpeg" sizes="16x16">
+    <link rel="stylesheet" href="mitrabajo.css">
+</head>
+<body>
+    <header class="header">
+    <div nav="menu">
+        <nav> 
+        
+                <label for="btn-menu">☰</label>
+            </div>
+                
+        
+        
+    <!------------------>
+    <input type="checkbox" id="btn-menu">
+    <div class="container-menu">
+        <div class="cont-menu">
+            <nav>
+            
+            <ul>
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="Mitrabajo.html">PROYECTOS</a></li>
+                <li><a href="QuienSoy.html">QUIEN SOY</a></li>
+                <li><a href="mishabilidades.html">MIS HABILIDADES</a></li>
+                <li><a href="Contacto.html">CONTACTO</a></li>
+           
+    
+            </ul>
+        </nav>
+
+        <label for="btn-menu">X</label>
+    </div>
+</header>
+ <center>
+        <div>
+            <h3><p>PROYECTOS</p></h3>
+            <br>
+
+            <h2>Estos son mis Trabajos:https://sites.google.com/view/johan04/p%C3%A1gina-principal</h2>
+
+            <br>
+            <img src="img/Tr1.png" width="500px" alt="Fotoperfil"
+            <br>
+            <br>
+            <img src="img/Tr2.png" width="500px" alt="Fotoperfil"
+            <br>
+            <br>
+            <img src="img/tr3.png" width="500px" alt="Fotoperfil"
+            <br>
+            <br>
+            <img src="img/tr4.png" width="500px" alt="Fotoperfil"
+            <br>
+            <br>
+            <img src="img/tr5.png" width="500px" alt="Fotoperfil"
+            <br>
+            <br>
+         
+      
+
+            <b>
+            <p></p>
+            </b>
+        </div>
+        <br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+    </center>
+
+    <footer>
+        <center>
+        Derecho reservado &copy; 2023
+        </center>
+        </footer>
+
+</body>
+</html>
+    
