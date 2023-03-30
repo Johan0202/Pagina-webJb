@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIEN SOY</title>
+    <link rel="stylesheet" href="quiensoy.css">
+    
+    <link rel="icon" href="futbol-americano.png"  type="image/jpeg" sizes="16x16">
+    <body>
+        <header class="header">
+        <div nav="menu">
+            <nav> 
+            
+                    <label for="btn-menu">☰</label>
+                </div>
+                    
+            
+            
+        <!------------------>
+        <input type="checkbox" id="btn-menu">
+        <div class="container-menu">
+            <div class="cont-menu">
+                <nav>
+                
+                <ul>
+                    <li><a href="index.html">INICIO</a></li>
+                    <li><a href="Mitrabajo.html">PROYECTOS</a></li>
+                    <li><a href="QuienSoy.html">QUIEN SOY</a></li>
+                    <li><a href="mishabilidades.html">MIS HABILIDADES</a></li>
+                    <li><a href="Contacto.html">CONTACTO</a></li>
+               
+        
+                </ul>
+            </nav>
+    
+            <label for="btn-menu">X</label>
+        </div>
+    </header>
+<center>
+    <div>
+        <h3>Quien Soy?</h3>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <img src="img/JOHAN.jpeg" width="300px" alt="Fotoperfil"
+        <br>
+        <b>
+        <h2><p> Soy un estudiante de informatica que se decidio por esta carrera por algo 
+            inusual, pero no me arrepiente de haberla Elegido 
+           Tener un maestro profesional y muy buena persona Vale Oro</h2>
+        </p>
+    </b>
+    </div>
+    <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</center>
+</div>
+
+    <footer>
+        <center>
+            <p>
+        Derecho reservado &copy; 2023
+    </p>
+ </center>
+        </footer>
+</body>
+</html>
